@@ -1,0 +1,14 @@
+[
+    {
+        "descripcion": "Comida",
+        "monto": 30
+    },
+    {
+        "descripcion": "Transporte",
+        "monto": 20
+    },
+    {
+        "descripcion": "Entretenimiento",
+        "monto": 15
+    }
+]
